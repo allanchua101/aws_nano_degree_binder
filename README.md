@@ -1,2 +1,3 @@
-# aws_nano_degree_binder
+# AWS Nano Degree Binder.
+
 Repo used for aggregating AWS nano degree notebooks
